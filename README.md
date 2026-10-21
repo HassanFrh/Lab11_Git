@@ -1,4 +1,4 @@
-# Storage Estimator
+# Better Storage Estimator
 Purpose : Estimates storage
 
 How to Run: runs python file
